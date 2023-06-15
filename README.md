@@ -1,10 +1,10 @@
 # ODVL
-Ejercicio final Curso Calidad de Código
+Ejercicio Final Curso Calidad de Código
 
 Descripción del proyecto
 
-Requerimientos del sistema
+Repositorios del sistema
 
-Proceso de instalación
+Proceso la instalación
 
-Requerimientos del sistema
+Descripción las funciones del sistema
